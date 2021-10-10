@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+footer {
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  z-index: 19;
+}
+.container {
+  margin-bottom: 50px;
+}
+@media screen and (max-width: 768px) {
+  .Card {
+    margin-left: 10px;
+  }
+}
