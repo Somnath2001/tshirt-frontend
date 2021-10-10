@@ -1,4 +1,8 @@
-# tshirt-frontend<img width="1440" alt="Screenshot 2021-10-11 at 1 26 49 AM" src="https://user-images.githubusercontent.com/69350451/136711766-9f8f861f-6f82-4fe5-abe3-44d393c1783f.png">
+# tshirt-frontend
+#This is a Online T-Shirt store website .In this project i have done using MERN stack and included braintree payment Gateway for ts Purchase
+
+
+<img width="1440" alt="Screenshot 2021-10-11 at 1 26 49 AM" src="https://user-images.githubusercontent.com/69350451/136711766-9f8f861f-6f82-4fe5-abe3-44d393c1783f.png">
 <img width="1440" alt="Screenshot 2021-10-11 at 1 26 54 AM" src="https://user-images.githubusercontent.com/69350451/136711767-73842ff9-d4bc-4b2a-9e05-7d9318fbd800.png">
 <img width="1440" alt="Screenshot 2021-10-11 at 1 27 03 AM" src="https://user-images.githubusercontent.com/69350451/136711770-c9578349-d9e4-4447-a253-d7f4df01dea6.png">
 <img width="1440" alt="Screenshot 2021-10-11 at 1 27 12 AM" src="https://user-images.githubusercontent.com/69350451/136711773-6c338286-6590-455d-bdc4-632afdfa9509.png">
